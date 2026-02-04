@@ -1,0 +1,8 @@
+/* Demonstrate group selectors by styling multiple elements together.
+
+Example:
+Style h1, h2, and p using one CSS rule. */
+
+h1,h2,p{
+    color: aqua;
+}
