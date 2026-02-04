@@ -1,0 +1,10 @@
+/* Create 3 <div> elements with the same class name.
+Style them using a class selector. */
+.same_name{
+    height: 150px;
+    width: 200px;
+    background-color: blanchedalmond;
+    border: 2px solid rgb(201, 134, 34);
+    border-radius: 5px;
+
+}
