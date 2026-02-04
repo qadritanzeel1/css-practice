@@ -1,0 +1,19 @@
+/* Explain the CSS Box Model.
+Create a <div> and visually show:
+content
+padding
+border
+margin */
+
+/* every  element in css is treated as box in simple everything in css is treated as box */
+
+
+div{
+    box-sizing: border-box;
+    background-color: brown;
+    width: 200px;
+    height: 100px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
