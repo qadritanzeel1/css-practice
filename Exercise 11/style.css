@@ -1,0 +1,12 @@
+/* Explain the difference between:
+color
+background-color
+👉 Show the difference with an example (HTML + CSS). */
+
+/* if we simply put the background color as dark and color white in our page like this */
+*{
+    background-color: black;
+    color: white;
+}
+
+/* from this example we understood that only the font color will be white and background will be black */
