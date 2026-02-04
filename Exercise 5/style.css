@@ -1,0 +1,20 @@
+/* Why is external CSS preferred?
+Create a small example that shows why external CSS is better than inline/internal CSS.
+
+Write explanation + code (short is fine). */
+
+/* External Css is preffered because when you work on the real life scenerio there will be a lot of css code and lot of html so we make the external file for css so the code will be easily readable short example is given below*/
+
+p{
+    color: aquamarine;
+}
+h1{
+    color: blue;
+}
+
+h3{
+    color: bisque;
+}
+
+
+/* like this if there will be the lot of elements to style the code will look like a mess */
