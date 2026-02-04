@@ -1,0 +1,9 @@
+/* Create a paragraph:
+
+Add a CSS comment
+
+Change text color using CSS */
+
+p{
+    color: blueviolet;    /* here the color will be changed */
+}
