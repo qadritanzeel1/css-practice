@@ -1,0 +1,16 @@
+/* Create a paragraph and apply:
+
+font-size
+
+font-weight
+
+text-align
+
+line-height */
+
+p{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1;
+}
