@@ -1,0 +1,21 @@
+/* Apply colors using:
+
+Color name
+
+HEX value
+
+RGB value
+
+👉 Use all three in one page (different elements). */
+
+.one{
+    color: blue;
+}
+
+.two{
+    color:#ff220f;
+}
+
+.three{
+    color: rgb(130, 47, 85);
+}
