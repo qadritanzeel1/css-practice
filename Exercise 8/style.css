@@ -1,0 +1,12 @@
+/* Create one unique element using an ID selector.
+Also explain why IDs should not be repeated. */
+
+#unique{
+    height: 100px;
+    width: 200px;
+    background-color: aqua;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+/* id's should not be same that is not a good practice id's are always supposed to be unique if we put same id's for two elements it will work but its a bad practice because id is only for uniqueness */
