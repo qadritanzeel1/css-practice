@@ -1,0 +1,15 @@
+/* Task 2
+
+Center the <div> horizontally
+
+Add padding inside the div
+
+Make text centered vertically & horizontally */
+
+div{
+    background-color: red;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    padding-top: 70px;
+}
