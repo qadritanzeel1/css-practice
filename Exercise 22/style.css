@@ -1,0 +1,29 @@
+.container {
+    width: 400px;
+    height: 200px;
+    background-color: lightgray;
+    display: flex;                /* here the display flex is used to make the items flexible */
+    justify-content: flex-start;  /* this will put the elements as it is where the lements were  */
+    justify-content: center;    /*this wil justify our content in center */
+    justify-content: space-between; /* this will put space in between them  */
+    align-items: center; /* this will take it a div absolute center */
+    flex-direction: column; /* this will convert elements row into column */
+}
+.child1{
+    width: 60px;
+height: 60px;
+background-color:blue;
+
+}
+.child2{
+width: 60px;
+height: 60px;
+background-color:green;
+
+}
+.child3{
+width: 60px;
+height: 60px;
+background-color:yellow;
+
+}
