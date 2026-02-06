@@ -1,0 +1,24 @@
+
+
+div{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(114, 84, 39);
+    border: 1px solid black;
+
+}
+
+
+.box1{
+    background-color: aqua;
+}
+.box2{
+    background-color: green;
+    /* display: none; */
+    visibility: hidden;
+}
+.box3{
+    background-color: red;
+    float: left;
+}
+
