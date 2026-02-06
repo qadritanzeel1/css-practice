@@ -1,0 +1,14 @@
+div{
+    color: rgb(55, 111, 111);
+    background-color: bisque;
+    height: 200px;
+    width: 200px;
+    border: 2px solid red;
+    border-radius: 2px ;
+    
+}
+
+p{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

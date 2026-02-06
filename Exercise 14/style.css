@@ -1,0 +1,23 @@
+/* What is box-sizing?
+Demonstrate the difference between:
+content-box
+border-box */
+
+/* box sizing in css means how the total height width is calculated in box */
+
+
+.one{
+    background-color: aqua;
+    color: blue;
+    height: 200px;
+    width: 150px;
+    box-sizing: content-box;  /* content-box is by default behaviour */
+}
+
+.two{
+     background-color: rosybrown;
+    color: red;
+    height: 200px;
+    width: 150px;
+    box-sizing: border-box; /* this adjusts all size in box it self */
+}
