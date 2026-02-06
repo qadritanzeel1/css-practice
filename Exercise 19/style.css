@@ -1,0 +1,21 @@
+/* Task 5 Requirements
+Create one div
+width = 300px
+padding = 20px
+border = 5px solid
+margin = 30px
+Background color any
+Apply:
+box-sizing: border-box;
+Explain:
+Final width of the div
+Why it is that width */
+
+div{
+    width: 300px;
+    padding: 20px;
+    border: 5px solid red;
+    margin: 30px;
+    background-color: blanchedalmond;
+    box-sizing: border-box;
+}
