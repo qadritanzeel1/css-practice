@@ -1,0 +1,28 @@
+/* Create 3 divs
+
+Each div width = 100px
+
+Make them appear in one row
+
+Add space between them
+
+Background color different for each
+
+⚠️ Rule:
+❌ No Flexbox
+❌ No Grid */
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+div{
+    width: 100px;
+    background-color: aqua;
+    height: 50px;
+    border: 2px solid brown;
+    margin: 5px;
+    display: inline-block;
+}
+
