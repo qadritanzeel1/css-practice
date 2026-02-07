@@ -1,0 +1,52 @@
+html,body{
+    height: 100%;
+    margin: 0;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+   height: 100vh;
+   width: 100%;
+    grid-template-rows: 60px 1fr 60px;
+   grid-template-areas: 
+    "aq aq"
+  "bl aqu"
+  "blr blr"
+   ;
+   gap: 10px;
+}
+
+ header{
+    background-color: aqua;
+    grid-area: aq;
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+
+aside{
+    background-color: blue;
+    grid-area:bl ;
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+main{
+    background-color: aquamarine;
+    grid-area:aqu ;
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+footer{
+    background-color: burlywood;
+    grid-area: blr;
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+
